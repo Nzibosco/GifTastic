@@ -4,7 +4,9 @@
 }
 
 .gif{
-    width: 190px;
+    width: 200px;
+    margin: 20px;
+    height: 150px;
 }
 .search {
     float:left;
@@ -21,4 +23,8 @@
     float: left;
     width: 50%;
     height: 50px;
+}
+.info-card{
+    text-align: center;
+    border-bottom: solid;
 }
