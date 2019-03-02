@@ -1,0 +1,24 @@
+.gif-images{
+    float: left;
+    
+}
+
+.gif{
+    width: 190px;
+}
+.search {
+    float:left;
+    padding: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    width: 30%;
+    background-color: lightgrey;
+    overflow: auto;
+}
+
+#buttons {
+    float: left;
+    width: 50%;
+    height: 50px;
+}
